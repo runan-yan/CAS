@@ -1,12 +1,28 @@
+# Import path
+
 # Analysis of fungal communities.
 ## Make ‘.files’ with a list of samples and associated fastq sequences.
-mothur > make.file(inputdir="" , type=fastq, prefix=ITS)
+mothur > make.file(inputdir=, type=fastq, prefix=ITS)
 
 ## Extract the sequence and quality scores data from fastq files and assemble contigs.
 mothur > make.contigs(file=ITS.files)
 
 ## Generate descriptive statistics.
 mothur > summary.seqs(fasta=ITS.trim.contigs.fasta) 
+
+
+### Output
+###		   Start	End	NBases	Ambigs	Polymer	NumSeqs
+###   Minimum:	1	249	249	0	2	1
+### 2.5%-tile:	1	303	303	0	3	91875
+###  25%-tile:	1	367	367	0	4	918744
+###   Median: 	1	386	386	0	6	1837488
+###  75%-tile:	1	433	433	0	10	2756232
+### 97.5%-tile:	1	474	474	2	11	3583101
+###   Maximum:	1	500	500	155	226	3674975
+###      Mean:	1	395	395	0	6
+###  # of Seqs:	3674975
+
 
 ## Remove any sequences with ambiguous bases (“N”) and sequences longer than Y due to variability in ITS length among different organisms.
 mothur > screen.seqs(fasta=ITS.trim.contigs.fasta, group=ITS.contigs.groups, maxlength=Y, summary=ITS.trim.contigs.summary,  maxhomop=13, maxambig=0)
