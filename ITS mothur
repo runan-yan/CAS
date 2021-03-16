@@ -1,4 +1,6 @@
-# Import path
+# Import path of mothur
+PATH=/programs/mothur/:${PATH}
+
 
 # Analysis of fungal communities.
 ## Make ‘.files’ with a list of samples and associated fastq sequences.
