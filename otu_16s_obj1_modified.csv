@@ -1,0 +1,543 @@
+,OTU,Sample,Abundance,X.Sample,MeatType,Packaging,SampleOrder,combine,X,Domain,Phylum,Class,Order,Family,Genus
+1,Otu0001,BRRG10,84.41628307,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+2,Otu0001,BRRG5,79.41495687,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+3,Otu0007,BRVA8,77.47341711,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+4,Otu0001,BRRG8,71.3825685,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+5,Otu0001,BRRG9,70.04500871,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+6,Otu0001,BRRG3,68.20784575,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+7,Otu0001,WHRG10,61.70751093,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+8,Otu0001,BRRG7,61.34644058,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+9,Otu0001,WHRG9,61.22450005,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+10,Otu0001,WHRG5,57.38240824,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+11,Otu0001,BRRG1,57.09468403,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+12,Otu0003,BRMA10,56.34387768,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+13,Otu0001,BRMA3,53.83800336,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+14,Otu0001,BRMA1,53.43500902,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+15,Otu0002,BRVA1,51.70417651,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+16,Otu0003,BRMA9,51.0673661,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+17,Otu0003,BRMA8,50.39147384,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+18,Otu0001,BRRG2,50.33828977,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+19,Otu0001,BRMA4,49.5786442,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+20,Otu0001,BRRG4,48.79300787,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+21,Otu0001,WHRG7,47.86457871,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+22,Otu0001,BRMA2,47.56556684,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+23,Otu0003,BRMA7,47.49884032,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+24,Otu0002,BRVA9,45.10768273,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+25,Otu0001,BRRG6,43.24710756,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+26,Otu0002,BRVA2,42.81879525,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+27,Otu0004,BRVA4,42.7268243,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+28,Otu0004,BRVA3,41.42979977,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+29,Otu0002,WHRG4,40.34847134,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+30,Otu0002,BRVA10,39.17212708,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+31,Otu0001,WHRG2,38.32203094,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+32,Otu0001,BRMA7,35.76219995,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+33,Otu0001,WHRG1,34.88772292,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+34,Otu0002,BRVA6,32.97350082,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+35,Otu0001,BRMA6,31.00946019,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+36,Otu0005,BRRG6,30.36255651,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+37,Otu0001,BRMA5,29.44367507,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+38,Otu0002,BRMA2,28.24258372,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+39,Otu0001,WHRG8,28.23453265,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+40,Otu0002,BRMA6,27.09109293,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+41,Otu0021,WHRG3,26.92042243,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Carnobacterium
+42,Otu0001,WHRG6,26.82189695,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+43,Otu0009,BRVA5,26.65204129,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+44,Otu0004,BRVA7,23.90924035,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+45,Otu0002,BRVA7,23.55786964,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+46,Otu0016,WHRG8,23.02701396,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+47,Otu0002,BRVA5,22.95278444,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+48,Otu0005,BRVA6,22.65402497,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+49,Otu0001,BRVA7,22.56655,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+50,Otu0011,BRVA10,22.04769994,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+51,Otu0013,BRMA4,20.83382187,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+52,Otu0013,BRRG4,18.68357953,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+53,Otu0002,BRMA3,18.43377594,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+54,Otu0002,BRVA3,18.28125491,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+55,Otu0002,BRMA5,18.02039563,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+56,Otu0001,BRMA8,17.98653776,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+57,Otu0002,BRRG7,17.74390136,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+58,Otu0002,BRVA4,17.63420933,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+59,Otu0001,WHRG3,17.44987537,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+60,Otu0004,BRVA2,15.43071347,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+61,Otu0010,WHRG1,15.35970653,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+62,Otu0010,BRVA5,15.31339964,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+63,Otu0009,BRVA1,15.03196909,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+64,Otu0013,BRRG1,14.49625756,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+65,Otu0004,BRRG2,14.40399474,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+66,Otu0011,WHRG2,14.06824324,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+67,Otu0024,WHRG3,12.9900695,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+68,Otu0001,BRMA10,12.87403552,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+69,Otu0004,BRVA5,12.79387251,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+70,Otu0008,BRVA1,12.75801933,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+71,Otu0009,BRVA9,12.6483376,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+72,Otu0009,BRMA5,12.6013359,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+73,Otu0013,BRMA9,12.4995857,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+74,Otu0001,BRMA9,12.28660021,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+75,Otu0023,WHRG2,12.06347696,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+76,Otu0005,BRVA9,11.702236,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+77,Otu0004,WHRG5,11.65645742,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+78,Otu0005,BRMA8,11.48813462,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+79,Otu0001,BRVA4,11.43931181,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+80,Otu0010,BRVA3,11.40038629,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+81,Otu0001,BRVA9,11.34304606,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+82,Otu0005,WHRG3,11.31417971,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+83,Otu0002,WHRG5,11.27471509,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+84,Otu0009,BRVA2,11.11545963,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+85,Otu0003,WHRG7,11.10215375,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+86,Otu0001,BRVA6,10.88126196,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+87,Otu0002,WHRG1,10.65847301,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+88,Otu0005,BRRG9,10.60023161,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+89,Otu0005,BRVA10,10.34398867,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+90,Otu0004,BRMA5,10.20583721,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+91,Otu0009,BRVA3,9.83959647,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+92,Otu0028,WHRG6,9.771639242,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified
+93,Otu0005,BRRG3,9.719233505,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+94,Otu0009,BRVA4,9.586832094,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+95,Otu0005,WHRG4,9.439654364,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+96,Otu0003,WHRG10,9.353014738,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+97,Otu0013,WHRG6,9.251737924,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+98,Otu0008,BRVA6,8.572588555,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+99,Otu0004,BRMA6,8.549439467,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+100,Otu0008,BRMA3,8.247049974,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+101,Otu0003,WHRG8,8.024900013,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+102,Otu0011,BRMA6,7.820124867,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+103,Otu0003,BRRG8,7.796310563,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+104,Otu0008,WHRG4,7.66064258,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+105,Otu0005,BRVA5,7.623224123,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+106,Otu0002,BRMA1,7.419757468,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+107,Otu0009,BRMA3,7.419432036,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+108,Otu0013,BRRG2,7.390421721,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+109,Otu0003,WHRG9,7.379304544,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+110,Otu0002,WHRG2,7.305625161,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+111,Otu0003,BRRG4,7.293220839,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+112,Otu0025,BRVA2,6.941404823,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia-Obesumbacterium
+113,Otu0001,BRVA3,6.842819138,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+114,Otu0001,BRVA10,6.761590825,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+115,Otu0013,BRMA1,6.76028378,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+116,Otu0009,BRMA6,6.705768398,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+117,Otu0016,BRVA10,6.684180875,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+118,Otu0011,WHRG4,6.558593188,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+119,Otu0010,BRMA5,6.557730422,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+120,Otu0001,BRVA8,6.491737009,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+121,Otu0015,WHRG2,6.481998366,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+122,Otu0001,BRVA1,6.426048132,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+123,Otu0003,BRMA1,6.407478926,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+124,Otu0009,BRVA7,6.373437143,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+125,Otu0011,BRVA7,6.312648674,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+126,Otu0008,BRVA2,6.297325816,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+127,Otu0013,WHRG10,6.073862994,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+128,Otu0004,WHRG4,6.025343483,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+129,Otu0003,BRMA4,6.007578202,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+130,Otu0013,BRMA10,5.865046155,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+131,Otu0009,BRVA6,5.861970563,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+132,Otu0005,BRVA2,5.835974968,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+133,Otu0009,WHRG5,5.778594135,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+134,Otu0009,WHRG4,5.769686177,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+135,Otu0003,BRRG1,5.608588822,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+136,Otu0013,BRMA8,5.452740053,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+137,Otu0002,BRVA8,5.440600045,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+138,Otu0018,WHRG7,5.239728789,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+139,Otu0013,WHRG8,5.234014439,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+140,Otu0015,WHRG1,5.187815984,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+141,Otu0013,BRRG6,5.185560527,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+142,Otu0005,BRMA2,5.170691063,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+143,Otu0013,WHRG7,5.157999918,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+144,Otu0011,WHRG6,5.135479635,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+145,Otu0001,WHRG4,5.075326986,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+146,Otu0004,BRVA1,4.939463006,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+147,Otu0016,WHRG3,4.935333832,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+148,Otu0024,WHRG1,4.769147329,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+149,Otu0008,WHRG1,4.720409184,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+150,Otu0007,WHRG6,4.638844124,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+151,Otu0009,BRRG8,4.629416857,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+152,Otu0005,BRRG2,4.616396571,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+153,Otu0013,WHRG2,4.614371101,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+154,Otu0008,BRVA9,4.567737832,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+155,Otu0016,WHRG4,4.560986844,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+156,Otu0037,WHRG6,4.516251214,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+157,Otu0013,WHRG1,4.499889053,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+158,Otu0018,WHRG9,4.409786976,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+159,Otu0018,WHRG10,4.395782609,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+160,Otu0011,BRMA10,4.374350465,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+161,Otu0026,WHRG4,4.3590327,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+162,Otu0013,WHRG9,4.299453323,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+163,Otu0035,BRMA1,4.296077569,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Pseudarthrobacter
+164,Otu0008,BRVA3,4.293503734,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+165,Otu0005,BRRG5,4.238945918,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+166,Otu0032,BRVA5,4.23563755,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcaceae_unclassified
+167,Otu0018,BRRG5,4.228877163,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+168,Otu0011,BRVA6,4.20202636,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+169,Otu0008,BRVA8,4.198485061,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+170,Otu0018,BRMA8,4.116811661,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+171,Otu0009,WHRG3,4.099697327,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+172,Otu0005,WHRG1,4.097999104,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+173,Otu0011,BRMA9,4.087682978,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+174,Otu0010,WHRG3,4.072766132,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+175,Otu0025,BRMA5,4.065173942,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia-Obesumbacterium
+176,Otu0015,BRMA5,4.052514231,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+177,Otu0008,BRMA5,3.990622309,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+178,Otu0022,WHRG2,3.915992654,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+179,Otu0018,WHRG8,3.880523255,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+180,Otu0003,BRRG2,3.861893939,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+181,Otu0022,BRMA9,3.799947778,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+182,Otu0003,BRRG6,3.772561745,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+183,Otu0011,BRVA4,3.734907141,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+184,Otu0010,BRVA2,3.668154534,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+185,Otu0008,BRVA7,3.667348277,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+186,Otu0008,BRVA10,3.609996177,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+187,Otu0010,BRVA1,3.576618718,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+188,Otu0037,WHRG8,3.513998726,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+189,Otu0015,BRMA6,3.488026346,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+190,Otu0010,BRVA4,3.446125661,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+191,Otu0009,BRMA10,3.374887448,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+192,Otu0013,WHRG3,3.363321512,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+193,Otu0004,BRVA9,3.351656867,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+194,Otu0015,BRVA7,3.329337671,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+195,Otu0008,BRVA5,3.297548493,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+196,Otu0004,WHRG1,3.295018191,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+197,Otu0002,BRRG9,3.287028342,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+198,Otu0005,WHRG2,3.269933137,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+199,Otu0041,WHRG9,3.24831766,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Gallibacterium
+200,Otu0010,WHRG4,3.238830127,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+201,Otu0011,WHRG5,3.19840343,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+202,Otu0002,BRRG2,3.166978495,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+203,Otu0011,BRMA2,3.144405807,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+204,Otu0026,BRMA5,3.103035888,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+205,Otu0001,BRVA2,3.08901198,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+206,Otu0031,WHRG10,3.045438308,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillales_unclassified,Oceanospirillales_unclassified
+207,Otu0004,BRVA6,3.031638627,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+208,Otu0022,WHRG3,2.991671022,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+209,Otu0013,BRRG5,2.919938994,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+210,Otu0031,WHRG7,2.908510014,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillales_unclassified,Oceanospirillales_unclassified
+211,Otu0002,WHRG6,2.895698222,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+212,Otu0003,BRRG7,2.863357848,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+213,Otu0031,WHRG9,2.854438382,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillales_unclassified,Oceanospirillales_unclassified
+214,Otu0028,BRRG4,2.80470577,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified
+215,Otu0003,BRRG3,2.802284363,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+216,Otu0001,BRVA5,2.656508144,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+217,Otu0005,BRMA7,2.644070634,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+218,Otu0011,BRVA9,2.640319932,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+219,Otu0005,BRRG7,2.584503521,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+220,Otu0008,WHRG5,2.575348308,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+221,Otu0068,WHRG8,2.566775695,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae_unclassified
+222,Otu0009,WHRG6,2.566397559,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+223,Otu0015,WHRG3,2.563080292,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+224,Otu0018,BRMA10,2.562398806,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+225,Otu0013,BRRG10,2.545821765,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+226,Otu0007,BRMA6,2.522401736,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+227,Otu0007,BRVA7,2.497003253,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+228,Otu0013,BRVA7,2.470951052,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+229,Otu0009,BRVA10,2.464328921,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+230,Otu0002,BRRG6,2.461066865,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+231,Otu0022,BRVA4,2.446442612,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+232,Otu0009,BRMA2,2.408151254,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+233,Otu0004,WHRG2,2.406670789,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+234,Otu0039,WHRG8,2.402281253,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium
+235,Otu0004,BRMA3,2.383471123,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+236,Otu0031,WHRG8,2.350393744,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillales_unclassified,Oceanospirillales_unclassified
+237,Otu0009,WHRG1,2.349018788,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+238,Otu0023,BRMA6,2.341960546,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+239,Otu0018,BRRG6,2.338617712,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+240,Otu0005,WHRG7,2.32213779,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+241,Otu0048,WHRG6,2.318527223,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+242,Otu0022,BRMA6,2.315536104,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+243,Otu0044,WHRG4,2.257801945,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Morganellaceae_unclassified
+244,Otu0003,BRRG5,2.191632371,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+245,Otu0008,BRMA2,2.152399673,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+246,Otu0015,BRVA10,2.150650342,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+247,Otu0069,WHRG6,2.134190439,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum
+248,Otu0018,BRRG1,2.128144579,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+249,Otu0022,WHRG1,2.07416761,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+250,Otu0023,WHRG10,2.073870956,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+251,Otu0022,WHRG6,2.028599465,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+252,Otu0068,WHRG6,2.02502011,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae_unclassified
+253,Otu0039,WHRG6,1.987436882,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium
+254,Otu0011,BRMA3,1.979086374,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+255,Otu0049,BRRG3,1.944134189,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+256,Otu0005,BRMA5,1.899660003,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+257,Otu0037,BRRG4,1.886891685,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+258,Otu0013,BRMA2,1.879034346,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+259,Otu0049,BRRG2,1.874580711,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+260,Otu0007,BRVA6,1.870613995,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+261,Otu0005,BRMA6,1.859525734,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+262,Otu0015,WHRG5,1.844146313,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+263,Otu0007,BRMA2,1.82689766,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+264,Otu0018,BRMA4,1.815329993,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+265,Otu0022,BRVA9,1.81473086,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+266,Otu0013,BRMA7,1.805636981,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+267,Otu0013,BRVA6,1.793034008,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+268,Otu0007,BRMA5,1.782206015,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+269,Otu0015,BRMA2,1.776874623,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+270,Otu0029,WHRG7,1.772089509,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+271,Otu0005,WHRG8,1.767487264,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+272,Otu0015,BRVA4,1.751227938,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+273,Otu0004,BRVA10,1.741387304,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+274,Otu0015,BRVA6,1.735517811,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+275,Otu0008,BRVA4,1.726271513,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+276,Otu0023,BRVA4,1.709158537,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+277,Otu0003,WHRG6,1.709142029,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+278,Otu0008,BRMA6,1.70626397,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+279,Otu0005,BRMA9,1.699788012,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+280,Otu0018,BRMA1,1.681250824,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+281,Otu0016,BRRG9,1.675813013,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+282,Otu0013,BRRG7,1.664813233,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+283,Otu0015,BRMA3,1.652665635,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+284,Otu0007,BRVA10,1.645802844,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+285,Otu0002,BRMA4,1.645437758,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+286,Otu0013,BRRG9,1.639787381,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+287,Otu0018,BRMA9,1.630158142,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+288,Otu0002,BRRG3,1.626460506,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+289,Otu0013,BRRG3,1.626460506,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+290,Otu0009,WHRG2,1.62505768,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+291,Otu0010,BRMA6,1.623215724,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+292,Otu0005,BRMA4,1.613976233,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+293,Otu0005,BRRG8,1.597336738,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+294,Otu0010,WHRG5,1.581042725,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+295,Otu0005,BRVA7,1.559792027,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+296,Otu0025,BRVA1,1.545065384,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia-Obesumbacterium
+297,Otu0003,BRRG10,1.523604188,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+298,Otu0029,BRMA1,1.519774756,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+299,Otu0003,BRRG9,1.511834275,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacilli_unclassified,Bacilli_unclassified,Bacilli_unclassified
+300,Otu0025,BRVA3,1.493061738,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia-Obesumbacterium
+301,Otu0002,BRRG5,1.490175762,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+302,Otu0004,WHRG3,1.484293571,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+303,Otu0037,WHRG7,1.480200681,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+304,Otu0076,WHRG6,1.472904596,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Actinobacteriota,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium
+305,Otu0022,BRRG8,1.465791359,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+306,Otu0011,WHRG3,1.451206674,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+307,Otu0029,BRRG8,1.449450318,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+308,Otu0004,BRMA2,1.444327113,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+309,Otu0005,BRMA3,1.429054577,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+310,Otu0005,BRMA10,1.41590594,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+311,Otu0011,BRVA8,1.409599677,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+312,Otu0015,BRVA3,1.393372091,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+313,Otu0016,WHRG7,1.39198539,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+314,Otu0049,WHRG9,1.383323006,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+315,Otu0037,BRRG8,1.35794049,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+316,Otu0049,WHRG10,1.353030662,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+317,Otu0008,WHRG3,1.342712432,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+318,Otu0002,BRMA7,1.32632764,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+319,Otu0009,BRVA8,1.319415612,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+320,Otu0002,BRRG4,1.315106326,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+321,Otu0005,BRRG4,1.309191305,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+322,Otu0073,WHRG2,1.298460722,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Flavobacterium
+323,Otu0028,WHRG7,1.297283681,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified
+324,Otu0015,BRVA9,1.266164093,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+325,Otu0018,BRRG7,1.250688107,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+326,Otu0016,WHRG10,1.245576209,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+327,Otu0013,BRMA3,1.244853897,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+328,Otu0007,BRVA9,1.237992333,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+329,Otu0013,BRRG8,1.232114476,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+330,Otu0016,WHRG9,1.230279552,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+331,Otu0018,BRRG4,1.222437664,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+332,Otu0002,WHRG7,1.220743944,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+333,Otu0007,BRMA3,1.215724487,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+334,Otu0005,WHRG9,1.207738268,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+335,Otu0016,BRVA6,1.194464281,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+336,Otu0016,BRMA4,1.190818722,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+337,Otu0010,BRMA2,1.173075435,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+338,Otu0013,BRVA10,1.172592456,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+339,Otu0075,BRRG2,1.161950157,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas
+340,Otu0018,WHRG6,1.159711031,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+341,Otu0002,WHRG8,1.156981045,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+342,Otu0050,WHRG7,1.151987909,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium
+343,Otu0005,BRMA1,1.150686601,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+344,Otu0024,BRVA5,1.122012999,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+345,Otu0016,BRMA10,1.121846243,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+346,Otu0026,WHRG1,1.116183417,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+347,Otu0013,WHRG5,1.116172582,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+348,Otu0049,WHRG1,1.112188488,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+349,Otu0016,BRMA9,1.084382834,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+350,Otu0013,BRVA9,1.075222166,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+351,Otu0016,BRRG4,1.07456214,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+352,Otu0002,WHRG3,1.067244781,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+353,Otu0005,BRRG10,1.062495172,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+354,Otu0005,WHRG10,1.058426369,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+355,Otu0008,BRRG2,1.047607176,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+356,Otu0016,BRMA1,1.042131261,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+357,Otu0010,WHRG2,1.02893896,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+358,Otu0116,BRMA4,1.020926487,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Firmicutes,Bacilli,Exiguobacterales,Exiguobacteraceae,Exiguobacterium
+359,Otu0016,BRRG1,1.018666608,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+360,Otu0140,WHRG6,1.015641991,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides
+361,Otu0010,BRVA6,1.013890174,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+362,Otu0068,BRRG1,1.008795807,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae_unclassified
+363,Otu0037,BRRG10,1.008328751,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+364,Otu0037,BRMA4,1.006768801,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+365,Otu0007,BRRG4,1.004567726,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium
+366,Otu0005,WHRG6,0.993271022,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+367,Otu0049,WHRG7,0.992422016,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+368,Otu0068,BRRG4,0.99076601,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae_unclassified
+369,Otu0015,BRRG9,0.988841482,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+370,Otu0011,WHRG7,0.985935598,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+371,Otu0028,BRRG1,0.985105886,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified
+372,Otu0022,BRRG9,0.983872429,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+373,Otu0086,WHRG6,0.975374247,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium_sensu_stricto_1
+374,Otu0010,BRMA3,0.970694746,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+375,Otu0065,BRMA1,0.970213349,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus
+376,Otu0029,BRRG7,0.962009644,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+377,Otu0011,WHRG1,0.957984193,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+378,Otu0010,BRVA9,0.954709638,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+379,Otu0035,BRRG4,0.933587474,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Pseudarthrobacter
+380,Otu0032,WHRG3,0.931819344,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcaceae_unclassified
+381,Otu0037,BRMA10,0.923823384,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+382,Otu0004,BRRG6,0.923202169,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+383,Otu0004,BRRG7,0.913644666,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+384,Otu0026,BRVA6,0.906214502,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+385,Otu0039,BRRG1,0.904165322,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium
+386,Otu0011,BRMA4,0.902945768,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacterales_unclassified,Enterobacterales_unclassified
+387,Otu0015,BRVA1,0.900087459,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+388,Otu0015,BRVA8,0.899567106,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+389,Otu0028,WHRG9,0.886228375,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified
+390,Otu0022,BRRG10,0.881940437,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+391,Otu0015,WHRG4,0.872865476,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Enterobacteriaceae_unclassified
+392,Otu0023,WHRG1,0.866100805,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+393,Otu0002,WHRG9,0.864873475,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+394,Otu0026,BRVA3,0.844698537,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+395,Otu0029,BRRG6,0.844254689,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+396,Otu0029,BRRG10,0.843051725,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+397,Otu0035,WHRG8,0.837928066,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Pseudarthrobacter
+398,Otu0013,WHRG4,0.833533582,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+399,Otu0004,BRMA7,0.83199517,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+400,Otu0049,BRVA6,0.831309687,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+401,Otu0004,BRRG3,0.8207768,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+402,Otu0067,WHRG10,0.819340209,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Vulcaniibacterium
+403,Otu0004,BRVA8,0.813172287,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+404,Otu0016,BRMA8,0.800707479,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+405,Otu0049,BRMA4,0.800695812,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+406,Otu0013,BRMA6,0.798018149,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+407,Otu0101,WHRG6,0.790142624,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Oscillospirales,Oscillospiraceae,Oscillospiraceae_unclassified
+408,Otu0013,BRMA5,0.784198779,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+409,Otu0048,BRRG7,0.782908084,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+410,Otu0026,WHRG3,0.781004652,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+411,Otu0018,WHRG1,0.777413361,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Alcaligenes
+412,Otu0049,BRMA1,0.774813737,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+413,Otu0029,BRMA9,0.770024449,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+414,Otu0048,BRRG6,0.767723968,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+415,Otu0022,BRVA6,0.765099181,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+416,Otu0037,BRRG9,0.760265059,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+417,Otu0010,BRVA7,0.759521856,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillaceae_unclassified
+418,Otu0025,WHRG1,0.758237697,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Hafniaceae,Hafnia-Obesumbacterium
+419,Otu0005,BRRG1,0.756103315,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+420,Otu0048,BRRG4,0.754165172,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+421,Otu0029,WHRG6,0.745400686,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+422,Otu0060,BRRG3,0.742436457,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Massilia
+423,Otu0049,WHRG6,0.735557459,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+424,Otu0098,BRMA1,0.732748543,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxellaceae_unclassified
+425,Otu0002,BRMA8,0.730619026,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+426,Otu0082,WHRG6,0.727503911,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Romboutsia
+427,Otu0057,WHRG7,0.726478862,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Peptostreptococcus
+428,Otu0016,BRVA7,0.725453594,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+429,Otu0028,BRMA8,0.723539384,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified
+430,Otu0024,BRVA2,0.722606811,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+431,Otu0037,BRRG1,0.720568434,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+432,Otu0064,BRMA4,0.71732277,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Hydrogenophilaceae,Hydrogenophilus
+433,Otu0004,BRRG5,0.712196614,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Weissella
+434,Otu0050,WHRG6,0.708712297,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium
+435,Otu0029,BRMA7,0.708233206,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+436,Otu0024,BRRG9,0.703120953,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+437,Otu0059,BRVA7,0.696729372,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcaceae_unclassified
+438,Otu0002,BRMA10,0.696054601,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+439,Otu0049,BRRG4,0.696000799,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+440,Otu0016,BRMA6,0.693830349,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+441,Otu0002,BRMA9,0.69117886,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+442,Otu0022,WHRG4,0.689064513,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Listeria
+443,Otu0075,BRRG3,0.686376396,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingomonas
+444,Otu0005,BRVA3,0.684890706,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+445,Otu0067,WHRG9,0.680984053,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Vulcaniibacterium
+446,Otu0068,WHRG7,0.679776649,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae_unclassified
+447,Otu0049,BRRG9,0.67827569,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+448,Otu0049,WHRG8,0.672329634,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+449,Otu0037,BRMA1,0.668972281,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+450,Otu0009,BRMA9,0.668651549,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+451,Otu0126,WHRG6,0.668444553,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Avibacterium
+452,Otu0026,BRRG6,0.662997718,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+453,Otu0051,BRRG1,0.657395311,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Bacilli,Aneurinibacillales,Aneurinibacillaceae,Aneurinibacillus
+454,Otu0005,BRVA4,0.655284395,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+455,Otu0028,WHRG10,0.648308537,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillaceae_unclassified
+456,Otu0059,WHRG5,0.642424711,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planococcaceae_unclassified
+457,Otu0072,BRRG6,0.635607776,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacteraceae_unclassified
+458,Otu0024,WHRG8,0.63369,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+459,Otu0037,WHRG9,0.633528718,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+460,Otu0050,WHRG8,0.629274041,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Actinobacteriota,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium
+461,Otu0068,BRMA4,0.6292305,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Lachnospiraceae_unclassified
+462,Otu0049,BRMA8,0.626548292,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+463,Otu0002,BRRG1,0.625808749,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+464,Otu0057,BRRG1,0.617912109,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Firmicutes,Clostridia,Peptostreptococcales-Tissierellales,Peptostreptococcaceae,Peptostreptococcus
+465,Otu0048,BRRG5,0.60681031,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+466,Otu0029,BRRG4,0.604317974,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+467,Otu0045,BRMA1,0.603839077,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Actinobacteriota,Actinobacteria,Micrococcales,Micrococcaceae,Micrococcus
+468,Otu0120,WHRG6,0.603121323,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Firmicutes,Negativicutes,Veillonellales-Selenomonadales,Veillonellales-Selenomonadales_unclassified,Veillonellales-Selenomonadales_unclassified
+469,Otu0024,WHRG9,0.600309984,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+470,Otu0049,BRVA9,0.599432445,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+471,Otu0048,BRRG10,0.598608391,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus
+472,Otu0049,BRMA5,0.595709745,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+473,Otu0023,WHRG7,0.588966791,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+474,Otu0016,BRVA5,0.587171412,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+475,Otu0016,BRVA4,0.586832489,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+476,Otu0008,BRRG9,0.585105952,BRRG9,Breast,Regular aerobic,29,BRRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+477,Otu0002,WHRG10,0.582044957,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillales_unclassified,Lactobacillales_unclassified
+478,Otu0024,BRMA5,0.578830131,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+479,Otu0037,BRMA9,0.578542305,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus
+480,Otu0069,BRRG4,0.57474287,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum
+481,Otu0009,BRMA7,0.567301952,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc
+482,Otu0023,BRMA7,0.567301952,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+483,Otu0221,BRRG2,0.566883514,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified,Bacteria_unclassified
+484,Otu0023,BRRG8,0.565400011,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+485,Otu0029,BRMA4,0.564734374,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+486,Otu0032,BRVA1,0.561919007,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcaceae_unclassified
+487,Otu0029,WHRG8,0.55861871,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Firmicutes,Bacilli,Staphylococcales,Staphylococcaceae,Staphylococcus
+488,Otu0005,BRVA1,0.554291147,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+489,Otu0039,BRRG4,0.552068623,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium
+490,Otu0005,BRVA8,0.548682885,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Listeriaceae,Brochothrix
+491,Otu0008,WHRG2,0.547763345,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus
+492,Otu0095,WHRG7,0.547453714,WHRG7,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas
+493,Otu0049,BRVA2,0.543654027,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Comamonadaceae,Comamonadaceae_unclassified
+494,Otu0024,WHRG6,0.538692933,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia
+495,Otu0016,BRMA5,0.538037728,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas
+496,Otu0023,WHRG8,0.537642909,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+497,Otu0032,WHRG4,0.535518853,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcaceae_unclassified
+498,Otu0026,BRVA4,0.531928356,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Shewanellaceae,Shewanella
+499,Otu0192,WHRG6,0.523480674,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes
+500,Otu0023,WHRG3,0.518617868,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Oxalobacteraceae,Janthinobacterium
+501,Otu0051,BRMA10,0.509930111,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Firmicutes,Bacilli,Aneurinibacillales,Aneurinibacillaceae,Aneurinibacillus
+502,Otu0032,BRVA2,0.5081655,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcaceae_unclassified
+503,Otu999,BRMA1,12.53696281,BRMA1,Breast,Modified,1,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+504,Otu999,BRMA10,9.937843639,BRMA10,Breast,Modified,10,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+505,Otu999,BRMA2,3.215992462,BRMA2,Breast,Modified,2,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+506,Otu999,BRMA3,1.186187843,BRMA3,Breast,Modified,3,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+507,Otu999,BRMA4,11.67176851,BRMA4,Breast,Modified,4,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+508,Otu999,BRMA5,1.781036991,BRMA5,Breast,Modified,5,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+509,Otu999,BRMA6,1.475335484,BRMA6,Breast,Modified,6,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+510,Otu999,BRMA7,8.288092195,BRMA7,Breast,Modified,7,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+511,Otu999,BRMA8,7.682887887,BRMA8,Breast,Modified,8,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+512,Otu999,BRMA9,9.136091076,BRMA9,Breast,Modified,9,BRMA,NA,Bacteria,Others,Others,Others,Others,Others
+513,Otu999,BRRG1,13.37780347,BRRG1,Breast,Regular aerobic,21,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+514,Otu999,BRRG10,7.119866506,BRRG10,Breast,Regular aerobic,30,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+515,Otu999,BRRG2,11.5710032,BRRG2,Breast,Regular aerobic,22,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+516,Otu999,BRRG3,11.82399153,BRRG3,Breast,Regular aerobic,23,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+517,Otu999,BRRG4,9.507080225,BRRG4,Breast,Regular aerobic,24,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+518,Otu999,BRRG5,4.196465995,BRRG5,Breast,Regular aerobic,25,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+519,Otu999,BRRG6,8.798742759,BRRG6,Breast,Regular aerobic,26,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+520,Otu999,BRRG7,9.88773295,BRRG7,Breast,Regular aerobic,27,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+521,Otu999,BRRG8,8.523670686,BRRG8,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+522,Otu999,BRRG9,6.5408151,BRRG9,Breast,Regular aerobic,28,BRRG,NA,Bacteria,Others,Others,Others,Others,Others
+523,Otu999,BRVA1,2.002342215,BRVA1,Breast,Vacuum,11,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+524,Otu999,BRVA10,2.205654569,BRVA10,Breast,Vacuum,20,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+525,Otu999,BRVA2,3.028733186,BRVA2,Breast,Vacuum,12,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+526,Otu999,BRVA3,3.496616614,BRVA3,Breast,Vacuum,13,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+527,Otu999,BRVA4,2.024643822,BRVA4,Breast,Vacuum,14,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+528,Otu999,BRVA5,2.765799396,BRVA5,Breast,Vacuum,15,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+529,Otu999,BRVA6,1.712844504,BRVA6,Breast,Vacuum,16,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+530,Otu999,BRVA7,1.574117082,BRVA7,Breast,Vacuum,17,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+531,Otu999,BRVA8,1.405323209,BRVA8,Breast,Vacuum,18,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+532,Otu999,BRVA9,1.690731434,BRVA9,Breast,Vacuum,19,BRVA,NA,Bacteria,Others,Others,Others,Others,Others
+533,Otu999,WHRG1,2.512524341,WHRG1,Whole chicken,Regular aerobic,31,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+534,Otu999,WHRG10,7.643792523,WHRG10,Whole chicken,Regular aerobic,40,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+535,Otu999,WHRG2,3.051436931,WHRG2,Whole chicken,Regular aerobic,32,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+536,Otu999,WHRG3,1.722683556,WHRG3,Whole chicken,Regular aerobic,33,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+537,Otu999,WHRG4,1.774647838,WHRG4,Whole chicken,Regular aerobic,34,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+538,Otu999,WHRG5,2.950287044,WHRG5,Whole chicken,Regular aerobic,35,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+539,Otu999,WHRG6,10.54117964,WHRG6,Whole chicken,Regular aerobic,36,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+540,Otu999,WHRG7,12.56956629,WHRG7,Whole chicken,Regular aerobic,37,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+541,Otu999,WHRG8,13.9716146,WHRG8,Whole chicken,Regular aerobic,38,WHRG,NA,Bacteria,Others,Others,Others,Others,Others
+542,Otu999,WHRG9,9.096933635,WHRG9,Whole chicken,Regular aerobic,39,WHRG,NA,Bacteria,Others,Others,Others,Others,Others

@@ -1,0 +1,41 @@
+﻿#Name,#Sample,MeatType,Packaging,SampleOrder,combine
+BRVA1,BRVA1,Breast,Vacuum,1,BRVA
+BRVA2,BRVA2,Breast,Vacuum,2,BRVA
+BRVA3,BRVA3,Breast,Vacuum,3,BRVA
+BRVA4,BRVA4,Breast,Vacuum,4,BRVA
+BRVA5,BRVA5,Breast,Vacuum,5,BRVA
+BRVA6,BRVA6,Breast,Vacuum,6,BRVA
+BRVA7,BRVA7,Breast,Vacuum,7,BRVA
+BRVA8,BRVA8,Breast,Vacuum,8,BRVA
+BRVA9,BRVA9,Breast,Vacuum,9,BRVA
+BRVA10,BRVA10,Breast,Vacuum,10,BRVA
+BRRG1,BRRG1,Breast,Regular aerobic,11,BRRG
+BRRG2,BRRG2,Breast,Regular aerobic,12,BRRG
+BRRG3,BRRG3,Breast,Regular aerobic,13,BRRG
+BRRG4,BRRG4,Breast,Regular aerobic,14,BRRG
+BRRG5,BRRG5,Breast,Regular aerobic,15,BRRG
+BRRG6,BRRG6,Breast,Regular aerobic,16,BRRG
+BRRG7,BRRG7,Breast,Regular aerobic,17,BRRG
+BRRG8,BRRG8,Breast,Regular aerobic,18,BRRG
+BRRG9,BRRG9,Breast,Regular aerobic,19,BRRG
+BRRG10,BRRG10,Breast,Regular aerobic,20,BRRG
+WHRG1,WHRG1,Whole chicken,Regular aerobic,21,WHRG
+WHRG2,WHRG2,Whole chicken,Regular aerobic,22,WHRG
+WHRG3,WHRG3,Whole chicken,Regular aerobic,23,WHRG
+WHRG4,WHRG4,Whole chicken,Regular aerobic,24,WHRG
+WHRG5,WHRG5,Whole chicken,Regular aerobic,25,WHRG
+WHRG6,WHRG6,Whole chicken,Regular aerobic,26,WHRG
+WHRG7,WHRG7,Whole chicken,Regular aerobic,27,WHRG
+WHRG8,WHRG8,Whole chicken,Regular aerobic,28,WHRG
+WHRG9,WHRG9,Whole chicken,Regular aerobic,29,WHRG
+WHRG10,WHRG10,Whole chicken,Regular aerobic,30,WHRG
+BRMA1,BRMA1,Breast,Modified atmosphere,31,BRMA
+BRMA2,BRMA2,Breast,Modified atmosphere,32,BRMA
+BRMA3,BRMA3,Breast,Modified atmosphere,33,BRMA
+BRMA4,BRMA4,Breast,Modified atmosphere,34,BRMA
+BRMA5,BRMA5,Breast,Modified atmosphere,35,BRMA
+BRMA6,BRMA6,Breast,Modified atmosphere,36,BRMA
+BRMA7,BRMA7,Breast,Modified atmosphere,37,BRMA
+BRMA8,BRMA8,Breast,Modified atmosphere,38,BRMA
+BRMA9,BRMA9,Breast,Modified atmosphere,39,BRMA
+BRMA10,BRMA10,Breast,Modified atmosphere,40,BRMA
